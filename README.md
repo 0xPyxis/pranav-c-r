@@ -62,21 +62,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/svk5NLO-EYgAAAAd/batman.gif"  />
+
+###
+
+<h1 align="left">GitHub Stats</h1>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-c-r&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-c-r&theme=radical" height="150" alt="GitHub Streak Stats" />
+</div>
+
+###
+
+<h1 align="left">Top Languages</h1>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-c-r&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
+
+###
+
+<h1 align="left">Connect with me</h1>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
