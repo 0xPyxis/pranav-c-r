@@ -10,7 +10,7 @@ I'm a full stack developer and UI/UX designer. SIH '24 Finalist. Sometimes I con
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pranav-c-r&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pranav-c-r&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-c-r&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-c-r&exclude_repo=big-python-repo,ml-notebooks&layout=compact&theme=aura_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranav-c-r&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
