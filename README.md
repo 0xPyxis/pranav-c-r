@@ -43,8 +43,8 @@
 
 <!-- 🎨 GIF #2 and GIF #3 - TWO SIDE-BY-SIDE GIFS (Change the URLs below) -->
 <div align="center">
-  <img width="45%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="GIF 2" />
-  <img width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF 3" />
+  <img width="45%" style="vertical-align: middle; margin: 10px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThmaTIxeHZvOGVhcHoydG92Z204bDNjY3RucWp1cnBnaGd6eWF6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTLV2erK8vf1MIz4Rk/giphy.webp" alt="GIF 2" />
+  <img width="45%" style="vertical-align: middle; margin: 10px;" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF 3" />
 </div>
 
 <br/>
