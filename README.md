@@ -137,7 +137,7 @@
 ## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav-c-r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav_c_r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6)](https://wakatime.com/@pranav_c_r)
 <!--END_SECTION:waka-->
 
 <br/>
