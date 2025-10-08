@@ -6,7 +6,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;SIH+'24+Finalist+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-  <img src="https://komarev.com/github-user-badge/svg?username=pranav-c-r&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=pranav-c-r&label=Profile%20Views&color=0e75b6&style=for-the-badge)
   
   <a href="https://github.com/pranav-c-r?tab=followers">
     <img src="https://img.shields.io/github/followers/pranav-c-r?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a2e" alt="followers" />
@@ -16,29 +16,27 @@
 
 <br/>
 
-## 🌟 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```typescript
-const pranav = {
-    pronouns: "He" | "Him",
-    location: "Kerala, India 🇮🇳",
-    role: "Full Stack Developer & UI/UX Designer",
-    achievements: ["SIH '24 Finalist 🏆"],
-    currentFocus: "Building scalable web applications & contributing to FOSS",
-    askMeAbout: ["Web Dev", "Mobile Dev", "UI/UX", "Cloud Architecture"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express", "Flask", "Firebase"],
-        mobile: ["React Native", "Flutter"],
-        databases: ["MongoDB", "MySQL", "Supabase", "Firebase"],
-        devOps: ["Docker", "Vercel", "Netlify", "Render"],
-        design: ["Figma", "Framer", "Canva"]
-    },
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
-```
+## 🚀 About Me
 
-<br/>
+👋 Hey there! I'm **Pranav C R**, a passionate developer from Kerala, India 🇮🇳
+
+🎯 **Current Focus:** Building scalable web applications & contributing to FOSS
+
+🏆 **Achievement:** SIH '24 Finalist 
+
+💼 **Role:** Full Stack Developer & UI/UX Designer
+
+🎨 **Design Philosophy:** Creating beautiful, intuitive user experiences
+
+💡 **Fun Fact:** I turn coffee into code ☕️ → 💻
+
+📚 **Always Learning:** Exploring new technologies and best practices
+
+🤝 **Open to:** Collaborating on interesting projects
+
+<br clear="right"/>
 
 ## 🔗 Connect With Me
 
@@ -53,6 +51,8 @@ const pranav = {
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💻 Tech Stack
 
@@ -121,11 +121,23 @@ const pranav = {
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## ⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav-c-r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<!--END_SECTION:waka-->
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav-c-r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=pranav-c-r&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-c-r&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 <br/>
@@ -137,13 +149,55 @@ const pranav = {
 
 <br/>
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav-c-r&theme=radical" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranav-c-r&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-c-r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎮 When I'm Not Coding...
+
+<div align="center">
+
+### Let's Play Some GitHub Games! 🕹️
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pranav-c-r">
+        <img src="https://github.com/pranav-c-r/pranav-c-r/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+      </a>
+      <br/>
+      <b>🐍 Catch the Snake!</b>
+    </td>
+  </tr>
+</table>
+
+<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔝 Top Contributed Repositories
 
@@ -153,18 +207,48 @@ const pranav = {
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 💭 Random Dev Quote
 
 <div align="center">
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  
+  <br/><br/>
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
+
 </div>
 
 <br/>
 
-## 🐍 Contribution Graph
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/snake.svg" alt="Snake animation" />
+  
+![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-c-r&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Streak & Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav-c-r&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&theme=radical" alt="Pranav's GitHub Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranav-c-r&theme=radical" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-c-r&theme=radical" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranav-c-r&theme=radical" />
+
 </div>
 
 <br/>
@@ -173,19 +257,52 @@ const pranav = {
 
 <div align="center">
   
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
   ### 💖 Show Some Love
   
   If you like my work, consider:
   - ⭐ Starring my repositories
   - 👥 Following me on GitHub
+  - 🤝 Collaborating on interesting projects
   - ☕ [Buying me a coffee](https://buymeacoffee.com/pranavcr)
   
   <br/>
   
-  **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  **"First, solve the problem. Then, write the code."** – John Johnson
   
   <br/>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
   
 </div>
+
+<!-- Setup Instructions for Snake Game:
+1. Go to Settings > Actions > General
+2. Enable "Read and write permissions" for workflows
+3. Create .github/workflows/snake.yml with this content:
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: pranav-c-r
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
