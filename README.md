@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;SIH+'24+Finalist+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=SIH+'24+Finalist+%F0%9F%8F%86;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=pranav-c-r&label=Profile%20Views&color=0e75b6&style=for-the-badge)
   
@@ -16,6 +16,7 @@
 
 <br/>
 
+<!-- 🎨 GIF #1 - TOP RIGHT (Change the URL below to customize this GIF) -->
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRuMzhxdXB4OHN6Z2k5ZWlmcmFjZng2MGtkNm9wdm82NzM0ajI4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.webp">
 
 ## 🚀 About Me
@@ -37,6 +38,16 @@
 🤝 **Open to:** Collaborating on interesting projects
 
 <br clear="right"/>
+
+<br/>
+
+<!-- 🎨 GIF #2 and GIF #3 - TWO SIDE-BY-SIDE GIFS (Change the URLs below) -->
+<div align="center">
+  <img width="45%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="GIF 2" />
+  <img width="45%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF 3" />
+</div>
+
+<br/>
 
 ## 🔗 Connect With Me
 
@@ -179,17 +190,13 @@
 
 ### Let's Play Some GitHub Games! 🕹️
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pranav-c-r">
-        <img src="https://github.com/pranav-c-r/pranav-c-r/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-      </a>
-      <br/>
-      <b>🐍 Catch the Snake!</b>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
 
 <img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
@@ -277,32 +284,3 @@
   
 </div>
 
-<!-- Setup Instructions for Snake Game:
-1. Go to Settings > Actions > General
-2. Enable "Read and write permissions" for workflows
-3. Create .github/workflows/snake.yml with this content:
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: pranav-c-r
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
