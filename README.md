@@ -134,10 +134,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## ⏱️ Weekly Development Breakdown
+<!--## ⏱️ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav_c_r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6)](https://wakatime.com/@pranav_c_r)
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav_c_r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6)](https://wakatime.com/@pranav_c_r)
 <!--END_SECTION:waka-->
 
 <br/>
