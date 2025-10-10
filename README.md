@@ -14,7 +14,6 @@
   
 </div>
 
-<br/>
 
 <!-- 🎨 GIF #1 - TOP RIGHT (Change the URL below to customize this GIF) -->
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRuMzhxdXB4OHN6Z2k5ZWlmcmFjZng2MGtkNm9wdm82NzM0ajI4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.webp">
