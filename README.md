@@ -17,7 +17,7 @@
 
 <!-- 🎨 GIF #1 - TOP RIGHT (Change the URL below to customize this GIF) -->
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRuMzhxdXB4OHN6Z2k5ZWlmcmFjZng2MGtkNm9wdm82NzM0ajI4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.webp">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🚀 About Me
 
 👋 Hey there! I'm **Pranav C R**, a passionate developer from Kerala, India 🇮🇳
