@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  
+   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=SIH+'24+Finalist+%F0%9F%8F%86;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=pranav-c-r&label=Profile%20Views&color=0e75b6&style=for-the-badge)
