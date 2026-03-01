@@ -2,51 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pranav%20C%20R&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<div align="center">
-   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=SIH+'24+Finalist+%F0%9F%8F%86;Full+Stack+Developer+%F0%9F%9A%80;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Contributor+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=pranav-c-r&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-  
-  <a href="https://github.com/pranav-c-r?tab=followers">
-    <img src="https://img.shields.io/github/followers/pranav-c-r?label=Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a2e" alt="followers" />
-  </a>
-  
-</div>
-
-
-<!-- 🎨 GIF #1 - TOP RIGHT (Change the URL below to customize this GIF) -->
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRuMzhxdXB4OHN6Z2k5ZWlmcmFjZng2MGtkNm9wdm82NzM0ajI4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.webp">
-
-## 🚀 About Me
-
-👋 Hey there! I'm **Pranav C R**, a passionate developer from Kerala, India 🇮🇳
-
-🎯 **Current Focus:** Building scalable web applications & contributing to FOSS
-
-🏆 **Achievement:** SIH '24 Finalist 
-
-💼 **Role:** Full Stack Developer & UI/UX Designer
-
-🎨 **Design Philosophy:** Creating beautiful, intuitive user experiences
-
-💡 **Fun Fact:** I turn coffee into code ☕️ → 💻
-
-📚 **Always Learning:** Exploring new technologies and best practices
-
-🤝 **Open to:** Collaborating on interesting projects
-
-<br clear="right"/>
-
-<br/>
-
-<!-- 🎨 GIF #2 and GIF #3 - TWO SIDE-BY-SIDE GIFS (Change the URLs below) -->
-<div align="center">
-  <img width="45%" style="vertical-align: middle; margin: 10px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThmaTIxeHZvOGVhcHoydG92Z204bDNjY3RucWp1cnBnaGd6eWF6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lTLV2erK8vf1MIz4Rk/giphy.webp" alt="GIF 2" />
-  <img width="45%" style="vertical-align: middle; margin: 10px;" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="GIF 3" />
-</div>
-
-<br/>
 
 ## 🔗 Connect With Me
 
@@ -138,7 +93,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pranav-c-r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" />
+  
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-c-r&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
