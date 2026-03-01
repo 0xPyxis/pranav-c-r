@@ -133,12 +133,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--## ⏱️ Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pranav_c_r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6)](https://wakatime.com/@pranav_c_r)
-<!--END_SECTION:waka-->
-<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 ## 📊 GitHub Statistics
 
@@ -147,40 +142,12 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-c-r&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-c-r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&exclude_repo=big-python-repo,ml-notebooks&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-c-r&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav-c-r&theme=radical" />
 </div>
 
-<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranav-c-r&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-c-r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎮 When I'm Not Coding...
 
 <div align="center">
 
@@ -192,61 +159,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/github-contribution-grid-snake.svg">
 </picture>
 
-<br/><br/>
-
-<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pranav-c-r&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💭 Random Dev Quote
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  
-  <br/><br/>
-  
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranav-c-r&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Current Streak & Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-c-r&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&theme=radical" alt="Pranav's GitHub Stats" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranav-c-r&theme=radical" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-c-r&theme=radical" />
   
@@ -254,19 +171,6 @@
 
 </div>
 
-<br/>
 
----
 
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-  
-  **"First, solve the problem. Then, write the code."** – John Johnson
-  
-  <br/>
-  
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
-  
-</div>
 
