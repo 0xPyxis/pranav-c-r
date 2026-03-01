@@ -262,16 +262,6 @@
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
-  ### 💖 Show Some Love
-  
-  If you like my work, consider:
-  - ⭐ Starring my repositories
-  - 👥 Following me on GitHub
-  - 🤝 Collaborating on interesting projects
-  - ☕ [Buying me a coffee](https://buymeacoffee.com/pranavcr)
-  
-  <br/>
-  
   **"First, solve the problem. Then, write the code."** – John Johnson
   
   <br/>
